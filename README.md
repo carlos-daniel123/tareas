@@ -5,3 +5,4 @@ si lograras arreglar hola2 te lo agradeceria mucho, ademas de que el problema cr
 de bot, no sirve, si quieres borralo, pero weno, gracias
 `edit: ya arregle hola2, el nuevo se llama hola, no uses hola2`
 si solo tienes windows, podrias probar instalar manylinux con WSL (Windows Subsystem for Linux) una VM como Virtualbox o VMware o con Docker, pero es algo dificil, jejeje, perdon
+`nota, linux.jpeg  es nada mas un extra que fue el que use para probar keras_model.h5, si quieres puedes borrarlo pero si no entonces Tux The Penguin se quedara contigo`
